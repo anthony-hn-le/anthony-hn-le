@@ -80,7 +80,7 @@ I'm currently looking for **2026 quant trading / quant research internships and 
 - 📈 **[Limit Order Book Simulator](https://github.com/anthony-hn-le/Limit-Order-Book-Simulator)** — a from-scratch C++ matching engine (price-time priority, O(1)-average cancel) compiled to WebAssembly, with a live browser demo and a differential fuzzer for correctness.
 - 🎲 **[Trader Titan](https://github.com/anthony-hn-le/Trader-Titan)** — a market-making trivia game against algorithmic bots, built to explore spread-quoting and inventory risk in a game-design context.
 - 🌋 **[Implied Volatility Surface](https://github.com/anthony-hn-le/Implied-Volatility-Surface)** — live options-chain data rendered as an interactive 3D IV surface via Black-Scholes inversion.
-- 🧮 **[Options Greeks Sandbox](https://anthony-le.vercel.app/quant-ground)** — BSM + binomial-tree (Cox-Ross-Rubinstein) calculator comparing European vs. American exercise, with live Greeks.
+- 🧮 **[Options Greeks Sandbox](https://anthony-le.vercel.app/quant-ground/options-greeks-sandbox)** — BSM + binomial-tree (Cox-Ross-Rubinstein) calculator comparing European vs. American exercise, with live Greeks.
 - 🌐 All of the above are showcased and kept up to date on my **[quant portfolio site](https://anthony-le.vercel.app)**.
 
 
