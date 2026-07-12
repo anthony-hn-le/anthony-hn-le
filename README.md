@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anthony+Le+%F0%9F%91%8B;Applied+Mathematician+%C2%B7+Aspiring+Quant+Trader;Building+pricing+models%2C+trading+systems+%26+quant+tools;Denison+University+%C3%97+LSE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anthony+%F0%9F%91%8B;Applied+Mathematician+%C2%B7+Aspiring+Quant+Trader;Building+pricing+models%2C+trading+systems+%26+quant+tools;Denison+University+%C3%97+LSE" alt="Typing SVG" />
 
 <br/>
 
@@ -8,8 +8,6 @@
 [![Denison](https://img.shields.io/badge/Denison%20University-Applied%20Math%20%26%20Fin.%20Econ-A80532?style=for-the-badge)](https://www.denison.edu/)
 [![LSE](https://img.shields.io/badge/LSE-Year%20Abroad%20'26--'27-002147?style=for-the-badge)](https://www.lse.ac.uk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-anthony--le.vercel.app-0066CC?style=for-the-badge&logo=vercel&logoColor=white)](https://anthony-le.vercel.app)
-
-![Profile Views](https://komarev.com/ghpvc/?username=anthony-hn-le&style=for-the-badge&color=0066CC&label=PROFILE+VIEWS)
 
 </div>
 
@@ -85,14 +83,6 @@ I'm currently looking for **2026 quant trading / quant research internships and 
 - 🧮 **[Options Greeks Sandbox](https://anthony-le.vercel.app/quant-ground)** — BSM + binomial-tree (Cox-Ross-Rubinstein) calculator comparing European vs. American exercise, with live Greeks.
 - 🌐 All of the above are showcased and kept up to date on my **[quant portfolio site](https://anthony-le.vercel.app)**.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anthony-hn-le&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-hn-le&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
